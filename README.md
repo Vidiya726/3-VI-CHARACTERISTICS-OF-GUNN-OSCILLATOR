@@ -70,6 +70,11 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 Observation Analysis -> Up to 2.5 V, current increases linearly. -> Between 2.5 V and 5 V, current slightly decreases — indicating the negative resistance region. -> This region is responsible for generating oscillations inside the resonant cavity of the Gunn oscillator.
 
+**Graph**
+
+![WhatsApp Image 2025-11-17 at 21 10 11_be73ec84](https://github.com/user-attachments/assets/d678aec9-e668-40df-80a3-d83e4ae052ef)
+
+
 **C.Analysis of Results:**
 From the observation table, it is seen that the current through the Gunn diode initially increases linearly with the applied bias voltage. As the voltage increases further, the current reaches a peak value (known as Peak Current) and then decreases even though the voltage continues to increase — this region is called the Negative Resistance Region. After reaching the Valley Current, the current starts to rise again with voltage.
 
